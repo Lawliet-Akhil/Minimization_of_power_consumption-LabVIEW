@@ -4,6 +4,7 @@ In this project, the main objective of this report is to minimize the Extra Powe
 -> Follow the block diagram for the code overview
 
 Below are the Algorithms provided for each model to help design the G-code easily
+
 -> OVER POWER USAGE INDICATORS AND ALERTS
 
 -> Calculating the power of the classes and labs
